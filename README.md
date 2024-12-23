@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+## We're LabsNextGen pvt Ltd. We're provide services like,
+ <ul>
+   <li> POS system</li>
+   <li> Web Development </li>
+   <li> University Project</li>
+    <li>Management System</li>
+ </ul>
+
+
 
 **labsnextgen/labsnextgen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
