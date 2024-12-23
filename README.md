@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there 👋 We're LabsNextGen pvt Ltd.
 
-## We're LabsNextGen pvt Ltd. We're provide services like,
+##  We're provide services like,
  <ul>
    <li> POS system</li>
    <li> Web Development </li>
