@@ -1,4 +1,4 @@
-## Hi there 👋 We're LabsNextGen pvt Ltd.
+## Hi there 👋 We're LabsNextGen 
 
 ##  We're provide services like,
  <ul>
